@@ -37,7 +37,7 @@ public class Cuenta_bancaria {
         JOptionPane.showMessageDialog(null,"Su saldo actual es: "+saldo);
         }
         else{
-            JOptionPane.showMessageDialog(null,"No cuenta con la cantidad que desea retirrar: ");  
+            JOptionPane.showMessageDialog(null,"No cuenta con la cantidad que desea retirrar:  ");  
         }
         
      
